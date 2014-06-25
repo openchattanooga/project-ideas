@@ -1,4 +1,6 @@
-project_ideas
+Project Ideas
 =============
 
-Propose project ideas here!
+We would really like feedback on things that Open Chattanooga could hack on.
+
+Submit your idea [here](https://github.com/openchattanooga/project_ideas/issues) using GitHub issues!
